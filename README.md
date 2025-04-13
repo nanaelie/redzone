@@ -2,6 +2,7 @@
 ![Wokwi Simulation](https://img.shields.io/badge/simulated%20on-Wokwi-green?logo=arduino)
 ![License](https://img.shields.io/github/license/nanaelie/redzone)
 ![Repo Size](https://img.shields.io/github/repo-size/nanaelie/redzone)
+[![Simuler sur Wokwi](https://img.shields.io/badge/Wokwi-Simuler%20le%20projet-blue?logo=arduino)](https://wokwi.com/projects/428144827576776705)
 
 # redzone 🚨
 RedZone est un projet Arduino de détection de proximité avec alarme sonore et visuelle, basé sur le capteur HC-SR04.
