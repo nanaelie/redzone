@@ -1,3 +1,4 @@
+<br /><br /><br />
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/platform-Arduino-blue?logo=arduino" alt="" /></a>
 <a href="#"><img src="https://img.shields.io/badge/simulated%20on-Wokwi-green?logo=arduino" alt="" /></a>
@@ -6,6 +7,7 @@
 <a href="https://wokwi.com/projects/428144827576776705"><img src="https://img.shields.io/badge/Wokwi-Simuler%20le%20projet-blue?logo=arduino" alt="" /></a>
 </p>
 
+<br />
 <!-- ![Arduino](https://img.shields.io/badge/platform-Arduino-blue?logo=arduino)
 ![Wokwi Simulation](https://img.shields.io/badge/simulated%20on-Wokwi-green?logo=arduino)
 ![License](https://img.shields.io/github/license/nanaelie/redzone)
