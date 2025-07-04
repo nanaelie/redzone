@@ -35,21 +35,21 @@ Le système **RedZone** utilise un capteur ultrasonique HC-SR04 pour mesurer la 
 
 ## 🔢 Fichiers du projet
 
-| Fichier                              | Description                      |
-|--------------------------------------|----------------------------------|
-| `sketch.ino`                         | Code Arduino                     |
-| `diagram.json`                       | Schéma du circuit Wokwi          |
-| `wokwi-project.txt`                  | Lien vers la simulation en ligne |
-| `redzone-arduino-schema-montage.png` | Capture visuelle du montage      |
-
+```
+redzone/
+    ├── diagram.json                        # Schéma du circuit Wokwi
+    ├── LICENSE                             # Licence du redzone (MIT)
+    ├── README.md                           # Documentation du redzone
+    ├── redzone-arduino-schema-montage.png  # Capture visuelle du montage
+    ├── sketch.ino                          # Code Arduino
+    └── wokwi-project.tx                    # Lien vers la simulation en ligne
+```
 ---
 
 ## ▶️ Simulation en ligne
 
 Tu peux tester ce projet directement ici :  
 👉 [Lien vers la simulation Wokwi](https://wokwi.com/projects/428144827576776705)
-
----
 
 ---
 
@@ -63,4 +63,3 @@ cd redzone
 
 Ce projet est open-source et libre d'utilisation à des fins pédagogiques et personnelles. 😉
 
----
